@@ -22,7 +22,7 @@ Belirlenen fiyat aralığına göre ürünler filtrelenmiş ve bu aralıkta yer 
 - `requests` / `selenium` (veri çekimi için)
 - `pandas`
 - `beautifulsoup4` (HTML parsing için)
-- `matplotlib` veya `seaborn` (varsa görselleştirme için)
+- `matplotlib` veya `seaborn` (görselleştirme için)
 
 ## ⚙️ Çalışma Adımları
 
